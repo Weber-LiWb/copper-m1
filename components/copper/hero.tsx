@@ -14,7 +14,7 @@ export function Hero() {
     <section
       id="top"
       data-testid="hero"
-      className="bg-secondary text-secondary-foreground w-full"
+      className="bg-secondary text-secondary-foreground w-full scroll-mt-16"
     >
       <div className="mx-auto grid max-w-5xl items-center gap-10 px-4 py-16 md:grid-cols-2 md:py-24">
         <div className="flex flex-col items-start gap-6">

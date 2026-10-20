@@ -7,6 +7,11 @@
 @theme inline {
   --font-heading: var(--font-display);
   --font-sans: var(--font-body);
+  /* Fixed brand colors for product finish swatches (same in light and dark). */
+  --color-copper: #b87333;
+  --color-patina: #4a8c82;
+  --color-desert-sand: #efe3d0;
+  --color-night-sky: #1c2333;
   --color-sidebar-ring: var(--sidebar-ring);
   --color-sidebar-border: var(--sidebar-border);
   --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
